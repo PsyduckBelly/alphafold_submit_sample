@@ -44,3 +44,6 @@ These directories will be created if they do not exist.
 ## Contact
 
 For questions or troubleshooting, please open an issue in this repository or contact the repository maintainer.
+
+I used this non-docker version for alphafold setup
+https://github.com/kalininalab/alphafold_non_docker
